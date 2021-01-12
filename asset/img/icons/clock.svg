@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.089" height="18.089" viewBox="0 0 18.089 18.089">
+  <g id="Group_7884" data-name="Group 7884" transform="translate(-225.122 -114.955)">
+    <g id="Ellipse_809" data-name="Ellipse 809" transform="translate(225.167 115)" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.5" fill="none"/>
+    </g>
+    <g id="Group_7880" data-name="Group 7880" transform="translate(234.167 115.455)">
+      <line id="Line_2" data-name="Line 2" y1="0.911" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" y1="0.911" transform="translate(0 16.179)" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Group_7881" data-name="Group 7881" transform="translate(225.622 124)">
+      <line id="Line_4" data-name="Line 4" x2="0.911" transform="translate(16.179)" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_5" data-name="Line 5" x2="0.911" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Group_7882" data-name="Group 7882" transform="translate(228.125 117.958)">
+      <line id="Line_6" data-name="Line 6" y1="0.644" x2="0.644" transform="translate(11.44)" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_7" data-name="Line 7" y1="0.644" x2="0.644" transform="translate(0 11.44)" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Group_7883" data-name="Group 7883" transform="translate(228.125 117.958)">
+      <line id="Line_8" data-name="Line 8" x2="0.644" y2="0.644" transform="translate(11.44 11.44)" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_9" data-name="Line 9" x2="0.644" y2="0.644" fill="#fff" stroke="#ff1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Ellipse_814" data-name="Ellipse 814" transform="translate(227.268 117.101)" fill="#00086f" stroke="#00086f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+      <ellipse cx="6.899" cy="6.899" rx="6.899" ry="6.899" stroke="none"/>
+      <ellipse cx="6.899" cy="6.899" rx="6.399" ry="6.399" fill="none"/>
+    </g>
+    <path id="Path_20774" data-name="Path 20774" d="M246.167,121.463v4.991l2.471,1.8" transform="translate(-12 -2.454)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

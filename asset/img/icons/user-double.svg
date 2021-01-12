@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_7933" data-name="Group 7933" transform="translate(-431.958 -115)">
+    <g id="Rectangle_2910" data-name="Rectangle 2910" transform="translate(441.958 127.026)" fill="#00086f" stroke="#ff1d1d" stroke-miterlimit="10" stroke-width="1">
+      <path d="M5,0H5a5,5,0,0,1,5,5V7.974a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M5,.5H5A4.5,4.5,0,0,1,9.5,5V7.249a.225.225,0,0,1-.225.225H.725A.225.225,0,0,1,.5,7.249V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+    </g>
+    <g id="Ellipse_817" data-name="Ellipse 817" transform="translate(442.971 119.051)" fill="#fff" stroke="#00086f" stroke-miterlimit="10" stroke-width="1">
+      <circle cx="3.987" cy="3.987" r="3.987" stroke="none"/>
+      <circle cx="3.987" cy="3.987" r="3.487" fill="none"/>
+    </g>
+    <g id="Rectangle_2911" data-name="Rectangle 2911" transform="translate(431.958 125)" fill="#00086f" stroke="#ff1d1d" stroke-miterlimit="10" stroke-width="1">
+      <path d="M6.27,0h0a6.27,6.27,0,0,1,6.27,6.27V10a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6.27A6.27,6.27,0,0,1,6.27,0Z" stroke="none"/>
+      <path d="M6.27.5h0a5.77,5.77,0,0,1,5.77,5.77v3a.228.228,0,0,1-.228.228H.728A.228.228,0,0,1,.5,9.272v-3A5.77,5.77,0,0,1,6.27.5Z" fill="none"/>
+    </g>
+    <g id="Ellipse_818" data-name="Ellipse 818" transform="translate(433.228 115)" fill="#fff" stroke="#00086f" stroke-miterlimit="10" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>
